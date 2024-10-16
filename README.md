@@ -82,5 +82,11 @@ I am a Data Scientist from Nigeria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+### :fire:📊 My Stats :
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peace0095&theme=dark&background=000000" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peace0095" />
+</div>
