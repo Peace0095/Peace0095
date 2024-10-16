@@ -69,6 +69,7 @@ I am a Data Scientist from Nigeria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="spss" alt="spss" width="40" height="40"/>&nbsp;
+  https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows11" **alt="windows11" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
@@ -77,6 +78,7 @@ I am a Data Scientist from Nigeria.
 ###  Databases :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
 
 
