@@ -89,4 +89,5 @@ I am a Data Scientist from Nigeria.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peace0095&theme=dark&background=000000" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peace0095" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Peace0095&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21" alt="My GitHub Stats" /> 
 </div>
