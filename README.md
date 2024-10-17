@@ -26,22 +26,39 @@
 </div>
 ---
 
+<div align="Left">
+
 ### :man_scientist::man_technologist: About Me :
+
 I am a Data Scientist from Nigeria.
-- :chart_with_upwards_trend::bar_chart: I’m working as a Data Analyst, I uncover hidden patterns in data and translate them into actionable insights. I'm passionate about using data to tell compelling stories and drive informed decisions.
-- :seedling: ✍️ I'm also a Technical Writer, skilled at explaining complex technical concepts in a clear and concise way. I believe that effective communication is key to making technology accessible to everyone.
-- 🚀🚀 I'm currently exploring the exciting world of ML/AI 
-- :zap::zap: In my free time, I listen, watch tech podcasts and tutorials, read tech and academic articles.
-- 🤝 Let's connect and collaborate on projects that combine the power of data, AI technology, and effective communication.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sulaimon-araromi-395573151/)
+
+* :chart_with_upwards_trend::bar_chart: I’m working as a Data Analyst, I uncover hidden patterns in data and translate them into actionable insights. I'm passionate about using data to tell compelling stories and drive informed decisions.
+  
+* :seedling: ✍️ I'm also a Technical Writer, skilled at explaining complex technical concepts in a clear and concise way. I believe that effective communication is key to making technology accessible to everyone.
+  
+* 🚀🚀 I'm currently exploring the exciting world of ML/AI
+  
+* :zap::zap: In my free time, I listen, watch tech podcasts and tutorials, read tech and academic articles.
+  
+* 🤝 Let's connect and collaborate on projects that combine the power of data, AI technology, and effective communication.
+  
+* :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sulaimon-araromi-395573151/)
+</div>
 
 ---
+
+<div align="Left">
+
 ### 🚀 Current Missions
 - 💡 Developing AI-driven digital health interventions
 - 🎯 Creating personalized treatment plans using multi-omics data
 - 🦠 Advancing genomic surveillance in sub-Saharan Africa
+</div>
 
 ---
+
+<div align="Left">
+
 ### :hammer_and_wrench: Tech Stack and Tools
 ###  Languages :
 <div>
@@ -86,7 +103,7 @@ I am a Data Scientist from Nigeria.
 
 ### :fire:📊 My Stats :
 
-<div align="center">
+<div align="Left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peace0095&theme=dark&background=000000" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peace0095" />
   <img src="https://github-readme-stats.vercel.app/api?username=Peace0095&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21" alt="My GitHub Stats" /> 
