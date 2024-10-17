@@ -108,3 +108,17 @@ I am a Data Scientist from Nigeria.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peace0095" />
   <img src="https://github-readme-stats.vercel.app/api?username=Peace0095&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21" alt="My GitHub Stats" /> 
 </div>
+
+---
+💡 Support & Sponsorship:
+
+If you love my work, consider buying me a coffee or sponsoring future open-source contributions!
+
+<div align="center">
+  <a href="your_buy_me_a_coffee_link">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  <a href="your_sponsorship_link">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" />
+  </a>
+</div>
