@@ -1,5 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
+<h1 align="center">
+  Hi there 👋, I'm Sulaimon Araromi
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+</div>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sulaimon-araromi-395573151/">
@@ -17,14 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=Peace0095&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  Hi there 👋, I'm Sulaimon Araromi
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
-</div>
 ---
+
 
 <div align="Left">
 
